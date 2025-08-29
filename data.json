@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "version": "0.1.0",
+      "status": "active"
+    }
+  ],
+  "server": "http://localhost:3000"
+}
