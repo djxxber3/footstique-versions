@@ -5,7 +5,8 @@
       "status": "active"
     }
   ],
-  "server": "http://localhost:3000"
+  "server": "https://footstique-app.azurewebsites.net"
 
 }
+
 
