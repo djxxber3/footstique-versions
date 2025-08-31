@@ -5,9 +5,10 @@
       "status": "active"
     }
   ],
-  "server": "https://footstique-app.azurewebsites.net"
+  "server": "https://api.footstique.app"
 
 }
+
 
 
 
