@@ -2,12 +2,13 @@
   "versions": [
     {
       "version": "0.6.0",
-      "status": "active"
+      "active": "true"
     }
   ],
   "server": "http://20.19.80.14/"
 
 }
+
 
 
 
