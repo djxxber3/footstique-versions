@@ -1,18 +1,10 @@
 {
   "versions": [
     {
-      "version": "0.6.0",
+      "version": "1.0.0",
       "active": "true"
     }
   ],
-  "server": "http://20.19.80.14/"
+  "server": "https://apisfootstique.app/"
 
 }
-
-
-
-
-
-
-
-
