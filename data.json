@@ -2,12 +2,13 @@
   "versions": [
     {
       "version": "1.0.0",
-      "active": "false"
+      "active": "true"
     }
   ],
   "server": "https://apis.footstique.app"
 
 }
+
 
 
 
